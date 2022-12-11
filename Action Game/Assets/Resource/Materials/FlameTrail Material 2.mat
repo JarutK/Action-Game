@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FlameTrail Material 2
+  m_Shader: {fileID: -6465566751694194690, guid: cbcf61a061318d247916a9ec99f7a948,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_a1f55fe699db4e00806fdc137ac324b7:
+        m_Texture: {fileID: 2800000, guid: b1ed03c649788cb42874efb767cc2868, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_c10811e1ae424647a6d74063e98da852: 35
+    m_Colors:
+    - Color_27e169f295d4493ba69a81d2fa1ff8d4: {r: 2.9960785, g: 0.78431374, b: 0,
+        a: 1}
+    - Color_7360bad5486544239eb21c7550d09868: {r: 1.6235294, g: 0.101960786, b: 0.08627451,
+        a: 1}
+    - Vector2_3a343762a75f4e15a77592082f2995bc: {r: -0.5, g: 0, b: 0, a: 0}
+    - Vector2_49a9d94c74bd46c390a97171ec515226: {r: -0.1, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
